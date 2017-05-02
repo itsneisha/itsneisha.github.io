@@ -1,0 +1,55 @@
+.word {
+	color: white;
+}
+
+.navBar a {
+	float: left;
+	color: olive;
+	padding: 14px 14px;
+	text-decoration: none;
+	font-size: 18px;
+	text-align: center;
+}
+h3 {
+	color: #8b8c6e; 
+}
+h1 {
+	text-align: center;
+	color: olive;
+}
+
+span {
+	text-align: center;
+	color: #f1f2d2;
+}
+
+
+.navBar a:hover {
+     color: Olive;
+     font-style: italic;
+}
+
+.name {
+	text-decoration: none;
+	color: olive;
+	text-align: center;
+}
+
+body {
+	background-color: black;
+}
+
+.img-circle {
+    border-radius: 50%;
+    display: block;
+    margin: auto;
+    border:solid;
+    border-color: olive;
+}
+
+
+ .copyright {
+	color: white;
+	text-align: left;
+}
+

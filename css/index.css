@@ -1,0 +1,61 @@
+body {
+	background-color: black;
+}
+
+h2 {
+	color: olive;
+	text-align: center;
+}
+
+h3 {
+	color: #8f9171;
+	text-align: center;
+}
+
+.diploma {
+	color: green;
+	text-decoration: none;
+}
+
+.bullets {
+	list-style-position: inside;
+	padding-left: 2px;
+}
+
+.graduate {
+	margin: auto;
+	display: block;
+}
+
+.edName{
+	text-align: center;
+	color:olive;
+}
+
+.navBar a {
+	float: left;
+	color: olive;
+	padding: 14px 14px;
+	text-decoration: none;
+	font-size: 18px;
+	text-align: center;
+}
+
+.navBar a:hover {
+     color: Olive;
+     font-style: italic;
+}
+
+.copyright {
+	color:white;
+}
+
+#list {
+	color: white;
+	display: inline;
+	text-align: center;
+}
+
+.social {
+	color: white;
+}
