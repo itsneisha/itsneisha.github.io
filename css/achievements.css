@@ -35,8 +35,12 @@ span {
 	text-align: center;
 }
 
-body {
-	background-color: black;
+html { 
+  background: black fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
 }
 
 .img-circle {
