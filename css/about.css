@@ -1,3 +1,11 @@
+html { 
+  background-color: black; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
 .navBar a {
 	float: left;
 	color: olive;
@@ -16,14 +24,6 @@
 	text-decoration: none;
 	color: olive;
 	text-align: center;
-}
-
-html { 
-  background: black fixed; 
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-  background-size: cover;
 }
 
 .img-circle {
