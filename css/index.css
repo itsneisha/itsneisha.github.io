@@ -1,37 +1,3 @@
-body {
-	background-color: black;
-}
-
-h2 {
-	color: olive;
-	text-align: center;
-}
-
-h3 {
-	color: #8f9171;
-	text-align: center;
-}
-
-.diploma {
-	color: green;
-	text-decoration: none;
-}
-
-.bullets {
-	list-style-position: inside;
-	padding-left: 2px;
-}
-
-.graduate {
-	margin: auto;
-	display: block;
-}
-
-.edName{
-	text-align: center;
-	color:olive;
-}
-
 .navBar a {
 	float: left;
 	color: olive;
@@ -46,14 +12,31 @@ h3 {
      font-style: italic;
 }
 
-.copyright {
-	color:white;
+.name {
+	text-decoration: none;
+	color: olive;
+	text-align: center;
 }
 
-#list {
-	color: white;
-	display: inline;
+body {
+	background-color: black;
+}
+
+.img-circle {
+    border-radius: 50%;
+    display: block;
+    margin: auto;
+}
+
+.quote {
+	color: olive;
 	text-align: center;
+	font-style: italic;
+	padding-bottom: 150px;
+}
+
+ .copyright {
+	color: white;
 }
 
 .social {
