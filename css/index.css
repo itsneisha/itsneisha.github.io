@@ -1,3 +1,7 @@
+body {
+	background-color: black;
+}
+
 .navBar a {
 	float: left;
 	color: olive;
@@ -13,14 +17,10 @@
 }
 
 .name {
-	text-decoration: none;
 	color: olive;
 	text-align: center;
 }
 
-body {
-	background-color: black;
-}
 
 .img-circle {
     border-radius: 50%;
